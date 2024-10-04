@@ -7,9 +7,6 @@ I'm currently a **3rd year B.Tech student** specializing in **Artificial Intelli
 - Advanced Python programming
 - AI and machine learning concepts
 
-## 💖 Shoutout
-A special shoutout to my amazing classmates, **Deepika** and **Gayathri**! You inspire me every day.
-
 ## 📫 Let's Connect
 Feel free to reach out or follow me:
 - [LinkedIn](www.linkedin.com/in/mohan-btech)
